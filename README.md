@@ -1,5 +1,5 @@
 # Mayhem_Maps
-![Map Count](https://img.shields.io/badge/Map%20Count-13-brightgreen?style=for-the-badge&logo=github) ![Issues](https://img.shields.io/github/issues/MayhemStudios/FiveMReadyMaps?style=for-the-badge&logo=github-critical)
+![Map Count](https://img.shields.io/badge/Map%20Count-13-critical?style=for-the-badge&logo=github) ![Issues](https://img.shields.io/github/issues/MayhemStudios/FiveMReadyMaps?style=for-the-badge&logo=github-critical)
 
 This is a file full of maps, created for Grand Theft Auto Single-player. **(NOTE: I have not created the maps, i have only made it a FiveM Resource!)**
 
