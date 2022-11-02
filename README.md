@@ -1,7 +1,7 @@
 # Mayhem_Maps
 ![Map Count](https://img.shields.io/badge/Map%20Count-13-critical?style=for-the-badge&logo=github) ![Issues](https://img.shields.io/github/issues/MayhemStudios/FiveMReadyMaps?style=for-the-badge&logo=github-critical)
 
-[Join the Chat!](https://discord.gg/dsYrH7jw)
+[Join my Discord Server](https://discord.gg/dsYrH7jw)
 
 
 [Return to FiveM Forum Post](https://forum.cfx.re/t/free-single-player-map-pack-converted-to-fivem-ready/4937095)
