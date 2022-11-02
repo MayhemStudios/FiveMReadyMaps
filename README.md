@@ -9,7 +9,7 @@ Table of Information
 | Mayhem's FAQ | [Mayhem's Development Hub](https://discord.gg/b9upz9NkwC) |
 | Subscript to Release Notifications | [Mayhem's Development Hub](https://discord.gg/b9upz9NkwC)
 | More Resources | [Mayhem's Development Hub](https://discord.gg/b9upz9NkwC)
-| Original FiveM Post | [View Post](%28https://forum.cfx.re/t/free-single-player-map-pack-converted-to-fivem-ready/4937095)
+| Original FiveM Post | [View Post](https://forum.cfx.re/t/free-single-player-map-pack-converted-to-fivem-ready/4937095)
 
 This is a file full of maps, created for Grand Theft Auto Single-player. **(NOTE: I have not created the maps, i have only made it a FiveM Resource!)**
 
