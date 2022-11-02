@@ -1,9 +1,6 @@
 # Mayhem_Maps
 ![Map Count](https://img.shields.io/badge/Map%20Count-13-critical?style=for-the-badge&logo=github) ![Issues](https://img.shields.io/github/issues/MayhemStudios/FiveMReadyMaps?style=for-the-badge&logo=github-critical)
 
-<iframe src="https://discord.com/widget?id=1034246714795774074&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
-
 [Return to FiveM Forum Post](https://forum.cfx.re/t/free-single-player-map-pack-converted-to-fivem-ready/4937095)
 
 This is a file full of maps, created for Grand Theft Auto Single-player. **(NOTE: I have not created the maps, i have only made it a FiveM Resource!)**
